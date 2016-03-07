@@ -1,0 +1,84 @@
+
+.svgContainer {
+    position: relative;
+    
+    .toolTip {
+        position: absolute;
+        border: 1px solid black;
+        top: 0px;
+        left: 0px;
+        z-index: 100;
+        background: white;
+        max-width: 400px;
+        min-width: 100px;
+        padding: 10px;
+        box-shadow: 2px 2px 2px #a9a9a9;
+        .title {
+            font-weight: bold;
+            margin-bottom: 6px;
+        }
+        .hour {
+            font-size: 0.7em;
+            margin-bottom: 10px;
+        }
+        .description {
+            font-size: 0.8em;
+        }
+    }
+}
+
+svg {
+  font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+  g.mainContainer {
+
+    g.item {
+        rect {
+            box-sizing: content-box;
+            stroke: white;
+            stroke-width: 5px;
+            fill: darkgrey;
+            opacity: 1.0;
+            
+        }
+        text {
+            font-size: 10px;
+            text-anchor: start;
+        }
+    }
+    
+    &.hovered {
+        g.item {
+            opacity: 0.8;
+            
+            &.hovered {
+                opacity: 1.0;
+                fill: red;
+            }
+        }
+    }
+    
+    
+  }
+ 
+  
+
+
+  g {
+    path {
+      &.domain {
+        fill: none;
+        stroke: black;
+      }
+    }
+
+    &.tick {
+      line {
+        stroke: black;
+      }
+    }
+  }
+  
+  .scaleButtons {
+      cursor: pointer;
+  }
+}

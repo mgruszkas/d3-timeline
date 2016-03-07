@@ -1,0 +1,206 @@
+{
+    "series" : [
+        {
+            "name" : "Canal One",
+            "data" : [
+                {
+                    "dateStart": "2016-02-20 9:00:00",
+                    "dateEnd" : "2016-02-20 10:00:00",
+                    "name" : "Breaking news",
+                    "duration": "75",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 10:00:00",
+                    "dateEnd" : "2016-02-20 10:15:00",
+                    "name" : "Inside Out",
+                    "duration": "15",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 10:15:00",
+                    "dateEnd" : "2016-02-20 10:45:00",
+                    "name" : "Top Gear V",
+                    "duration": "30",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 10:45:00",
+                    "dateEnd" : "2016-02-20 13:00:00",
+                    "name" : "Washington Journal",
+                    "duration": "135",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 13:00:00",
+                    "dateEnd" : "2016-02-20 14:00:00",
+                    "name" : "Question Time",
+                    "duration": "60",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 14:00:00",
+                    "dateEnd" : "2016-02-20 17:00:00",
+                    "name" : "World Cup Live",
+                    "duration": "180",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 17:00:00",
+                    "dateEnd" : "2016-02-20 17:30:00",
+                    "name" : "Local News",
+                    "duration": "30",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 17:30:00",
+                    "dateEnd" : "2016-02-20 18:15:00",
+                    "name" : "Newsday",
+                    "duration": "45",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 18:15:00",
+                    "dateEnd" : "2016-02-20 19:30:00",
+                    "name" : "The Simpsons",
+                    "duration": "75",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 19:30:00",
+                    "dateEnd" : "2016-02-20 20:10:00",
+                    "name" : "Looney Tunes",
+                    "duration": "40",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 20:10:00",
+                    "dateEnd" : "2016-02-20 22:00:00",
+                    "name" : "Mission Impossible 2",
+                    "duration": "110",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                }
+            ]
+        },
+        {
+            "name" : "Canal Two",
+            "data" : [
+                {
+                    "dateStart": "2016-02-20 7:00:00",
+                    "dateEnd" : "2016-02-20 8:00:00",
+                    "name" : "World's News",
+                    "duration": "60",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 8:00:00",
+                    "dateEnd" : "2016-02-20 9:00:00",
+                    "name" : "Friends",
+                    "duration": "60",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 9:00:00",
+                    "dateEnd" : "2016-02-20 9:15:00",
+                    "name" : "Sport",
+                    "duration": "15",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 9:15:00",
+                    "dateEnd" : "2016-02-20 9:45:00",
+                    "name" : "Info day",
+                    "duration": "30",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 9:45:00",
+                    "dateEnd" : "2016-02-20 10:30:00",
+                    "name" : "Galileo",
+                    "duration": "45",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 10:30:00",
+                    "dateEnd" : "2016-02-20 11:00:00",
+                    "name" : "CrossTalk",
+                    "duration": "30",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 11:00:00",
+                    "dateEnd" : "2016-02-20 12:15:00",
+                    "name" : "Lost V",
+                    "duration": "75",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 12:15:00",
+                    "dateEnd" : "2016-02-20 13:00:00",
+                    "name" : "My Kitchen",
+                    "duration": "45",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 13:00:00",
+                    "dateEnd" : "2016-02-20 14:45:00",
+                    "name" : "Toy Story",
+                    "duration": "105",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 14:45:00",
+                    "dateEnd" : "2016-02-20 15:00:00",
+                    "name" : "Sport",
+                    "duration": "15",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 15:00:00",
+                    "dateEnd" : "2016-02-20 16:30:00",
+                    "name" : "Ice Age",
+                    "duration": "90",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 16:30:00",
+                    "dateEnd" : "2016-02-20 17:15:00",
+                    "name" : "Daily News",
+                    "duration": "45",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                },
+                {
+                    "dateStart": "2016-02-20 17:15:00",
+                    "dateEnd" : "2016-02-20 18:00:00",
+                    "name" : "Wings",
+                    "duration": "45",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh felis, tempus at pulvinar nec, ultricies eget augue. Suspendisse diam purus, hendrerit ac lectus ut, convallis consectetur est. Suspendisse potenti."
+
+                }
+            ]
+        }
+    ]
+}
